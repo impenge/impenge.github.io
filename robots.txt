@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://impenge.github.io/sitemap.html
+Sitemap: https://impenge.github.io/app/sitemap.html
+Sitemap: https://impenge.github.io/assets/sitemap.html
+Sitemap: https://impenge.github.io/includes/sitemap.html
+Sitemap: https://impenge.github.io/src/sitemap.html
